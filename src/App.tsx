@@ -17,7 +17,7 @@ const posts: PostType[] = [
     content: [
       { type: "paragraph", value: "Fala galeraa 👋" },
       { type: "paragraph", value: "Acabei de subir mais um projeto no meu portifa. É um projeto que fizno NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀" },
-      { type: "link", value: "jane.design/doctorcare" },
+      { type: "link", value: "github.com/jeftemartins" },
     ],
     publishedAt: new Date("2023-03-21 08:01:00"),
   },
